@@ -1,5 +1,12 @@
 # Making of Datavisualizations and Infographics
 
+## National Geographic
+
+### Resurrecting a Dragon
+
+Article: https://www.nationalgeographic.com/magazine/2017/06/nodosaur-3d-interactive-dinosaur-fossil/
+
+Making of: https://source.opennews.org/articles/resurrecting-dragon/
 
 ## Los Angeles Times
 
