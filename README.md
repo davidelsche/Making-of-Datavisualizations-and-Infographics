@@ -16,6 +16,8 @@ Article: http://graphics.latimes.com/mars-gale-crater-vr/
 
 Making of: http://graphics.latimes.com/mars-gale-crater-how-we-did-it/
 
+### The Thomas Fire: 40 Days of Devastation
+
 Article: http://www.latimes.com/projects/la-me-thomas-fire-40-days-of-devastation-3d/
 
 
