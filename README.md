@@ -1,5 +1,6 @@
 # Making of Datavisualizations and Infographics
 
+
 ## Los Angeles Times
 
 ### Discovering Gale Crater
@@ -10,6 +11,7 @@ Making of: http://graphics.latimes.com/mars-gale-crater-how-we-did-it/
 
 ## Tampa Bay Times
 
+
 ### Choice and Chance
 
 Link: http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shooting/choice-chance-3d-map/
@@ -17,6 +19,7 @@ Link: http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shoo
 Making of: https://source.opennews.org/articles/how-we-made-3d-model-pulse-nightclub/
 
 ## The New York Times
+
 
 ### Miles of ice collapsing into the sea
 
@@ -26,6 +29,7 @@ Making of: http://dwtkns.com/posts/flowing-ice.html
 
 ## The Guardian
 
+
 ### The climb of alpe d'Huez
 
 Article: https://www.theguardian.com/sport/ng-interactive/2015/jul/23/tour-de-france-the-climb-of-alpe-dhuez-interactive
@@ -33,6 +37,7 @@ Article: https://www.theguardian.com/sport/ng-interactive/2015/jul/23/tour-de-fr
 Making of: https://source.opennews.org/articles/how-we-made-3d-tour-de-france/
 
 ## The Washington Journal
+
 
 ### Is the Nasdaq in Another Bubble?
 
