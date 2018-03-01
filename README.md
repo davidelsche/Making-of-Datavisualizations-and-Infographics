@@ -5,18 +5,22 @@
 
 ### Discovering Gale Crater
 
-Link: http://graphics.latimes.com/mars-gale-crater-vr/
+Article: http://graphics.latimes.com/mars-gale-crater-vr/
 
 Making of: http://graphics.latimes.com/mars-gale-crater-how-we-did-it/
+
+Article: http://www.latimes.com/projects/la-me-thomas-fire-40-days-of-devastation-3d/
+
 
 ## Tampa Bay Times
 
 
 ### Choice and Chance
 
-Link: http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shooting/choice-chance-3d-map/
+Article: http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shooting/choice-chance-3d-map/
 
 Making of: https://source.opennews.org/articles/how-we-made-3d-model-pulse-nightclub/
+
 
 ## The New York Times
 
@@ -26,6 +30,7 @@ Making of: https://source.opennews.org/articles/how-we-made-3d-model-pulse-night
 Article: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
 
 Making of: http://dwtkns.com/posts/flowing-ice.html
+
 
 ## The Guardian
 
