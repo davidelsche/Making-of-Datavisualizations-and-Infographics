@@ -61,4 +61,4 @@ Making of: https://source.opennews.org/articles/how-we-made-3d-tour-de-france/
 
 Article: http://graphics.wsj.com/3d-nasdaq/
 
-Making of: http://www.storybench.org/why-the-wsj-used-a-virtual-roller-coaster-ride-to-bring-stock-prices-to-life/
+Making of: http://www.storybench.org/how-to-make-a-simple-virtual-reality-data-visualization/
