@@ -33,6 +33,9 @@ Making of: https://source.opennews.org/articles/how-we-made-3d-model-pulse-night
 
 ## The New York Times
 
+### How We Created a Virtual Crime Scene to Investigate Syria’s Chemical Attack
+
+https://www.nytimes.com/interactive/2018/06/24/world/middleeast/douma-syria-chemical-attack-augmented-reality-ar-ul.html
 
 ### Miles of ice collapsing into the sea
 
